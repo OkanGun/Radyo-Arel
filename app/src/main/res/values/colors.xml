@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00529B</color>
+    <color name="colorPrimaryDark">#0a009b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="beyaz">#fffff0</color>#00529B
+    <color name="acıkgri">#D3D3D3</color>
+    <color name="siyahkoyu">#000000</color>
+    <color name="arelmor">#b64598</color>
+    <color name="arelmavi">#00529b</color>
+    <color name="levander">#E6E6FA</color>
+
+</resources>

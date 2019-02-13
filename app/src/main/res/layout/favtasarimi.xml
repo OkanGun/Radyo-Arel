@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/favlist"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/favlistimg"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        app:srcCompat="@drawable/arel" />
+
+    <TextView
+        android:id="@+id/favlisttext"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textColor="@color/arelmavi"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/favlistbutton"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/carpi" />
+</LinearLayout>
